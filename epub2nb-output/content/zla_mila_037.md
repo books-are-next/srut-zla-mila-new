@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Venkovský dům
 contentType: prose
 ---
-
-Venkovský dům
 
 > Pes lítal od plotu ke zdi
 

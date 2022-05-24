@@ -1,0 +1,1179 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Zlá milá",
+  "author": "Pavel Šrut",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "srut-zla-mila-53c9e11",
+  "revision": "53c9e11",
+  "readingOrder": [
+    "promo.html",
+    "zla_mila_005.html",
+    "zla_mila_006.html",
+    "zla_mila_007.html",
+    "zla_mila_008.html",
+    "zla_mila_009.html",
+    "zla_mila_010.html",
+    "zla_mila_011.html",
+    "zla_mila_012.html",
+    "zla_mila_013.html",
+    "zla_mila_014.html",
+    "zla_mila_015.html",
+    "zla_mila_016.html",
+    "zla_mila_017.html",
+    "zla_mila_018.html",
+    "zla_mila_019.html",
+    "zla_mila_020.html",
+    "zla_mila_021.html",
+    "zla_mila_022.html",
+    "zla_mila_023.html",
+    "zla_mila_024.html",
+    "zla_mila_025.html",
+    "zla_mila_026.html",
+    "zla_mila_027.html",
+    "zla_mila_028.html",
+    "zla_mila_029.html",
+    "zla_mila_030.html",
+    "zla_mila_031.html",
+    "zla_mila_032.html",
+    "zla_mila_033.html",
+    "zla_mila_034.html",
+    "zla_mila_035.html",
+    "zla_mila_036.html",
+    "zla_mila_037.html",
+    "zla_mila_038.html",
+    "zla_mila_039.html",
+    "zla_mila_040.html",
+    "zla_mila_041.html",
+    "zla_mila_042.html",
+    "zla_mila_043.html",
+    "zla_mila_044.html",
+    "zla_mila_045.html",
+    "zla_mila_046.html",
+    "zla_mila_047.html",
+    "zla_mila_048.html",
+    "zla_mila_049.html",
+    "zla_mila_050.html",
+    "zla_mila_051.html",
+    "zla_mila_052.html",
+    "zla_mila_053.html",
+    "zla_mila_054.html",
+    "zla_mila_055.html",
+    "zla_mila_056.html",
+    "zla_mila_057.html",
+    "colophon.html"
+  ],
+  "generatedAt": {
+    "date": "Tue May 24 2022 06:00:06 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1653372006482
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "zla_mila_005.html",
+      "toc": []
+    },
+    {
+      "title": "Zlá milá",
+      "file": "zla_mila_005.html",
+      "words": 25,
+      "chars": 154,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "zla_mila_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Prolog",
+      "file": "zla_mila_006.html",
+      "words": 79,
+      "chars": 463,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 2,
+      "prev": "zla_mila_005.html",
+      "next": "zla_mila_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Prolog",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Osoby děje",
+      "file": "zla_mila_007.html",
+      "words": 12,
+      "chars": 75,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 3,
+      "prev": "zla_mila_006.html",
+      "next": "zla_mila_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Osoby děje",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Místa děje",
+      "file": "zla_mila_008.html",
+      "words": 73,
+      "chars": 409,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 4,
+      "prev": "zla_mila_007.html",
+      "next": "zla_mila_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Místa děje",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I",
+      "file": "zla_mila_009.html",
+      "words": 1,
+      "chars": 1,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 5,
+      "prev": "zla_mila_008.html",
+      "next": "zla_mila_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Doma",
+      "file": "zla_mila_010.html",
+      "words": 66,
+      "chars": 379,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 6,
+      "prev": "zla_mila_009.html",
+      "next": "zla_mila_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Doma",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V úzkém domě",
+      "file": "zla_mila_011.html",
+      "words": 71,
+      "chars": 380,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 7,
+      "prev": "zla_mila_010.html",
+      "next": "zla_mila_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V úzkém domě",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V jiném domě",
+      "file": "zla_mila_012.html",
+      "words": 131,
+      "chars": 725,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 8,
+      "prev": "zla_mila_011.html",
+      "next": "zla_mila_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V jiném domě",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vinárna U posledního penízu",
+      "file": "zla_mila_013.html",
+      "words": 225,
+      "chars": 1174,
+      "ideas": 76,
+      "role": "chapter",
+      "order": 9,
+      "prev": "zla_mila_012.html",
+      "next": "zla_mila_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vinárna U posledního penízu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pohled z okna úzkého domu",
+      "file": "zla_mila_014.html",
+      "words": 5,
+      "chars": 25,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 10,
+      "prev": "zla_mila_013.html",
+      "next": "zla_mila_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pohled z okna úzkého domu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II",
+      "file": "zla_mila_015.html",
+      "words": 1,
+      "chars": 2,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 11,
+      "prev": "zla_mila_014.html",
+      "next": "zla_mila_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pohled z okna úzkého domu",
+      "file": "zla_mila_016.html",
+      "words": 5,
+      "chars": 25,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 12,
+      "prev": "zla_mila_015.html",
+      "next": "zla_mila_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pohled z okna úzkého domu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Úzká ulice",
+      "file": "zla_mila_017.html",
+      "words": 38,
+      "chars": 194,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 13,
+      "prev": "zla_mila_016.html",
+      "next": "zla_mila_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Úzká ulice",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vinárna U posledního penízu",
+      "file": "zla_mila_018.html",
+      "words": 62,
+      "chars": 364,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 14,
+      "prev": "zla_mila_017.html",
+      "next": "zla_mila_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vinárna U posledního penízu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Panorama",
+      "file": "zla_mila_019.html",
+      "words": 23,
+      "chars": 146,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 15,
+      "prev": "zla_mila_018.html",
+      "next": "zla_mila_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Panorama",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nádraží",
+      "file": "zla_mila_020.html",
+      "words": 48,
+      "chars": 268,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 16,
+      "prev": "zla_mila_019.html",
+      "next": "zla_mila_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nádraží",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dům u jezera",
+      "file": "zla_mila_021.html",
+      "words": 23,
+      "chars": 113,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 17,
+      "prev": "zla_mila_020.html",
+      "next": "zla_mila_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dům u jezera",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jezero",
+      "file": "zla_mila_022.html",
+      "words": 72,
+      "chars": 394,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 18,
+      "prev": "zla_mila_021.html",
+      "next": "zla_mila_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jezero",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dům u jezera",
+      "file": "zla_mila_023.html",
+      "words": 204,
+      "chars": 1222,
+      "ideas": 61,
+      "role": "chapter",
+      "order": 19,
+      "prev": "zla_mila_022.html",
+      "next": "zla_mila_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dům u jezera",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Úzká krajina",
+      "file": "zla_mila_024.html",
+      "words": 224,
+      "chars": 1274,
+      "ideas": 62,
+      "role": "chapter",
+      "order": 20,
+      "prev": "zla_mila_023.html",
+      "next": "zla_mila_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Úzká krajina",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Stroj času",
+      "file": "zla_mila_025.html",
+      "words": 64,
+      "chars": 347,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 21,
+      "prev": "zla_mila_024.html",
+      "next": "zla_mila_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Stroj času",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Doma",
+      "file": "zla_mila_026.html",
+      "words": 69,
+      "chars": 354,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 22,
+      "prev": "zla_mila_025.html",
+      "next": "zla_mila_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Doma",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V úzkém městě",
+      "file": "zla_mila_027.html",
+      "words": 34,
+      "chars": 176,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 23,
+      "prev": "zla_mila_026.html",
+      "next": "zla_mila_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V úzkém městě",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Stroj času",
+      "file": "zla_mila_028.html",
+      "words": 21,
+      "chars": 125,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 24,
+      "prev": "zla_mila_027.html",
+      "next": "zla_mila_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Stroj času",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III",
+      "file": "zla_mila_029.html",
+      "words": 1,
+      "chars": 3,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 25,
+      "prev": "zla_mila_028.html",
+      "next": "zla_mila_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pohled z okna úzkého domu",
+      "file": "zla_mila_030.html",
+      "words": 5,
+      "chars": 25,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 26,
+      "prev": "zla_mila_029.html",
+      "next": "zla_mila_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pohled z okna úzkého domu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V úzkém domě",
+      "file": "zla_mila_031.html",
+      "words": 78,
+      "chars": 407,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 27,
+      "prev": "zla_mila_030.html",
+      "next": "zla_mila_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V úzkém domě",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vinárna U posledního penízu",
+      "file": "zla_mila_032.html",
+      "words": 233,
+      "chars": 1202,
+      "ideas": 66,
+      "role": "chapter",
+      "order": 28,
+      "prev": "zla_mila_031.html",
+      "next": "zla_mila_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vinárna U posledního penízu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Stroj času",
+      "file": "zla_mila_033.html",
+      "words": 60,
+      "chars": 307,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 29,
+      "prev": "zla_mila_032.html",
+      "next": "zla_mila_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Stroj času",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nádraží",
+      "file": "zla_mila_034.html",
+      "words": 53,
+      "chars": 290,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 30,
+      "prev": "zla_mila_033.html",
+      "next": "zla_mila_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nádraží",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Venkovský dům",
+      "file": "zla_mila_035.html",
+      "words": 471,
+      "chars": 2495,
+      "ideas": 119,
+      "role": "chapter",
+      "order": 31,
+      "prev": "zla_mila_034.html",
+      "next": "zla_mila_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Venkovský dům",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Stroj času",
+      "file": "zla_mila_036.html",
+      "words": 59,
+      "chars": 314,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 32,
+      "prev": "zla_mila_035.html",
+      "next": "zla_mila_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Stroj času",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Venkovský dům",
+      "file": "zla_mila_037.html",
+      "words": 52,
+      "chars": 277,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 33,
+      "prev": "zla_mila_036.html",
+      "next": "zla_mila_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Venkovský dům",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Venkovské nádraží",
+      "file": "zla_mila_038.html",
+      "words": 41,
+      "chars": 200,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 34,
+      "prev": "zla_mila_037.html",
+      "next": "zla_mila_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Venkovské nádraží",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Stroj času",
+      "file": "zla_mila_039.html",
+      "words": 45,
+      "chars": 230,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 35,
+      "prev": "zla_mila_038.html",
+      "next": "zla_mila_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Stroj času",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IV",
+      "file": "zla_mila_040.html",
+      "words": 1,
+      "chars": 2,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 36,
+      "prev": "zla_mila_039.html",
+      "next": "zla_mila_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zase v úzkém domě",
+      "file": "zla_mila_041.html",
+      "words": 53,
+      "chars": 302,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 37,
+      "prev": "zla_mila_040.html",
+      "next": "zla_mila_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zase v úzkém domě",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vinárna U posledního penízu",
+      "file": "zla_mila_042.html",
+      "words": 116,
+      "chars": 591,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 38,
+      "prev": "zla_mila_041.html",
+      "next": "zla_mila_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vinárna U posledního penízu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Úzké město",
+      "file": "zla_mila_043.html",
+      "words": 46,
+      "chars": 211,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 39,
+      "prev": "zla_mila_042.html",
+      "next": "zla_mila_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Úzké město",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V jiné ulici",
+      "file": "zla_mila_044.html",
+      "words": 58,
+      "chars": 343,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 40,
+      "prev": "zla_mila_043.html",
+      "next": "zla_mila_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V jiné ulici",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Stroj času",
+      "file": "zla_mila_045.html",
+      "words": 35,
+      "chars": 193,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 41,
+      "prev": "zla_mila_044.html",
+      "next": "zla_mila_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Stroj času",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V jiném domě",
+      "file": "zla_mila_046.html",
+      "words": 192,
+      "chars": 974,
+      "ideas": 62,
+      "role": "chapter",
+      "order": 42,
+      "prev": "zla_mila_045.html",
+      "next": "zla_mila_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V jiném domě",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vinárna U posledního penízu",
+      "file": "zla_mila_047.html",
+      "words": 56,
+      "chars": 310,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 43,
+      "prev": "zla_mila_046.html",
+      "next": "zla_mila_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vinárna U posledního penízu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V úzkém domě",
+      "file": "zla_mila_048.html",
+      "words": 155,
+      "chars": 823,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 44,
+      "prev": "zla_mila_047.html",
+      "next": "zla_mila_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V úzkém domě",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Doma",
+      "file": "zla_mila_049.html",
+      "words": 36,
+      "chars": 182,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 45,
+      "prev": "zla_mila_048.html",
+      "next": "zla_mila_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Doma",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V úzkém městě",
+      "file": "zla_mila_050.html",
+      "words": 36,
+      "chars": 165,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 46,
+      "prev": "zla_mila_049.html",
+      "next": "zla_mila_051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V úzkém městě",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vinárna U posledního penízu",
+      "file": "zla_mila_051.html",
+      "words": 75,
+      "chars": 373,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 47,
+      "prev": "zla_mila_050.html",
+      "next": "zla_mila_052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vinárna U posledního penízu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Panorama",
+      "file": "zla_mila_052.html",
+      "words": 31,
+      "chars": 162,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 48,
+      "prev": "zla_mila_051.html",
+      "next": "zla_mila_053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Panorama",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Doma",
+      "file": "zla_mila_053.html",
+      "words": 44,
+      "chars": 236,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 49,
+      "prev": "zla_mila_052.html",
+      "next": "zla_mila_054.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Doma",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V úzkém domě",
+      "file": "zla_mila_054.html",
+      "words": 37,
+      "chars": 206,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 50,
+      "prev": "zla_mila_053.html",
+      "next": "zla_mila_055.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V úzkém domě",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vinárna U posledního penízu",
+      "file": "zla_mila_055.html",
+      "words": 156,
+      "chars": 896,
+      "ideas": 42,
+      "role": "chapter",
+      "order": 51,
+      "prev": "zla_mila_054.html",
+      "next": "zla_mila_056.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vinárna U posledního penízu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V",
+      "file": "zla_mila_056.html",
+      "words": 1,
+      "chars": 1,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 52,
+      "prev": "zla_mila_055.html",
+      "next": "zla_mila_057.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pohled do okna úzkého domu",
+      "file": "zla_mila_057.html",
+      "words": 5,
+      "chars": 26,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 53,
+      "prev": "zla_mila_056.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pohled do okna úzkého domu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 121,
+      "chars": 758,
+      "ideas": 16,
+      "role": "colophon",
+      "order": null,
+      "prev": "zla_mila_057.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 3932,
+      "chars": 21311,
+      "ideas": 1134
+    },
+    "chapters": {
+      "words": 3807,
+      "chars": 20535,
+      "ideas": 1116
+    }
+  }
+}

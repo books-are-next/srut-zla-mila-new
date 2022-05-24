@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Úzká krajina
 contentType: prose
 ---
-
-Úzká krajina
 
 > Zlá milá přichází mezi keři
 

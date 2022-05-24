@@ -1,9 +1,7 @@
 ---
-title: ''
+title: V úzkém městě
 contentType: prose
 ---
-
-V úzkém městě
 
 > Jeroným přepočítává její vlasy
 

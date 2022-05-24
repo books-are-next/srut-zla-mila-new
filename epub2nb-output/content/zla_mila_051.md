@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Vinárna U posledního penízu
 contentType: prose
 ---
-
-Vinárna U posledního penízu
 
 > Však je dobře
 

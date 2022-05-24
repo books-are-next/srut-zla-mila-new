@@ -1,8 +1,6 @@
 ---
-title: ''
+title: Pohled z okna úzkého domu
 contentType: prose
 ---
-
-Pohled z okna úzkého domu
 
 akát vzkypěl úzké město je mu úzké

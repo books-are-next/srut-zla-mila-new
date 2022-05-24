@@ -1,6 +1,7 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
       "title": "Zlá milá",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Pavel Šrut",
@@ -8,7 +9,7 @@
       "modified": "2020-12-03T00:00:00.000Z"
     },
     "elements": {
-      "title": "MLP_ uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
+      "title": "uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola\nMLP_uroven2_basne",
       "subtitle": "",
       "h2": "MLP-uroven3-nadpis\nMLP_uroven3_nadpis",
       "h3": "",
@@ -22,59 +23,64 @@
       "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
       "figure": "MLP_obrazky\nMLP-obrazky",
       "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat",
-      "verse": "MLP-verse\nMLP-verse.+",
-      "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf\nMLP_znak_tucne_11b",
       "remove": "",
-      "ignore": ""
+      "ignore": "",
+      "verse": "MLP-verse\nMLP-verse.+"
     },
     "structure": [
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "zla_mila_001.md",
             "xhtml": "zla_mila_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_002.md",
             "xhtml": "zla_mila_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_003.md",
             "xhtml": "zla_mila_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_004.md",
             "xhtml": "zla_mila_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_005.md",
@@ -85,7 +91,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_006.md",
@@ -96,7 +103,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_007.md",
@@ -107,7 +115,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_008.md",
@@ -118,7 +127,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_009.md",
@@ -129,7 +139,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_010.md",
@@ -140,7 +151,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_011.md",
@@ -151,7 +163,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_012.md",
@@ -162,7 +175,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_013.md",
@@ -173,7 +187,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_014.md",
@@ -184,7 +199,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_015.md",
@@ -195,7 +211,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_016.md",
@@ -206,7 +223,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_017.md",
@@ -217,7 +235,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_018.md",
@@ -228,7 +247,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_019.md",
@@ -239,7 +259,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_020.md",
@@ -250,7 +271,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_021.md",
@@ -261,7 +283,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_022.md",
@@ -272,7 +295,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_023.md",
@@ -283,7 +307,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_024.md",
@@ -294,7 +319,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_025.md",
@@ -305,7 +331,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_026.md",
@@ -316,7 +343,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_027.md",
@@ -327,7 +355,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_028.md",
@@ -338,7 +367,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_029.md",
@@ -349,7 +379,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_030.md",
@@ -360,7 +391,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_031.md",
@@ -371,7 +403,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_032.md",
@@ -382,7 +415,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_033.md",
@@ -393,7 +427,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_034.md",
@@ -404,7 +439,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_035.md",
@@ -415,7 +451,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_036.md",
@@ -426,7 +463,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_037.md",
@@ -437,7 +475,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_038.md",
@@ -448,7 +487,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_039.md",
@@ -459,7 +499,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_040.md",
@@ -470,7 +511,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_041.md",
@@ -481,7 +523,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_042.md",
@@ -492,7 +535,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_043.md",
@@ -503,7 +547,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_044.md",
@@ -514,7 +559,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_045.md",
@@ -525,7 +571,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_046.md",
@@ -536,7 +583,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_047.md",
@@ -547,7 +595,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_048.md",
@@ -558,7 +607,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_049.md",
@@ -569,7 +619,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_050.md",
@@ -580,7 +631,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_051.md",
@@ -591,7 +643,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_052.md",
@@ -602,7 +655,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_053.md",
@@ -613,7 +667,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_054.md",
@@ -624,7 +679,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_055.md",
@@ -635,7 +691,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_056.md",
@@ -646,7 +703,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_057.md",
@@ -657,18 +715,20 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zla_mila_058.md",
             "xhtml": "zla_mila_058.xhtml",
             "id": 57,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -714,19 +774,19 @@
         "xhtml": "zla_mila_005.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Prolog",
         "subtitleSuggest": "",
         "filename": "zla_mila_006.md",
         "xhtml": "zla_mila_006.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Osoby děje",
         "subtitleSuggest": "",
         "filename": "zla_mila_007.md",
         "xhtml": "zla_mila_007.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Místa děje",
         "subtitleSuggest": "",
         "filename": "zla_mila_008.md",
         "xhtml": "zla_mila_008.xhtml"
@@ -738,31 +798,31 @@
         "xhtml": "zla_mila_009.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Doma",
         "subtitleSuggest": "",
         "filename": "zla_mila_010.md",
         "xhtml": "zla_mila_010.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "V úzkém domě",
         "subtitleSuggest": "",
         "filename": "zla_mila_011.md",
         "xhtml": "zla_mila_011.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "V jiném domě",
         "subtitleSuggest": "",
         "filename": "zla_mila_012.md",
         "xhtml": "zla_mila_012.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Vinárna U posledního penízu",
         "subtitleSuggest": "",
         "filename": "zla_mila_013.md",
         "xhtml": "zla_mila_013.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Pohled z okna úzkého domu",
         "subtitleSuggest": "",
         "filename": "zla_mila_014.md",
         "xhtml": "zla_mila_014.xhtml"
@@ -774,79 +834,79 @@
         "xhtml": "zla_mila_015.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Pohled z okna úzkého domu",
         "subtitleSuggest": "",
         "filename": "zla_mila_016.md",
         "xhtml": "zla_mila_016.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Úzká ulice",
         "subtitleSuggest": "",
         "filename": "zla_mila_017.md",
         "xhtml": "zla_mila_017.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Vinárna U posledního penízu",
         "subtitleSuggest": "",
         "filename": "zla_mila_018.md",
         "xhtml": "zla_mila_018.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Panorama",
         "subtitleSuggest": "",
         "filename": "zla_mila_019.md",
         "xhtml": "zla_mila_019.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Nádraží",
         "subtitleSuggest": "",
         "filename": "zla_mila_020.md",
         "xhtml": "zla_mila_020.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dům u jezera",
         "subtitleSuggest": "",
         "filename": "zla_mila_021.md",
         "xhtml": "zla_mila_021.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Jezero",
         "subtitleSuggest": "",
         "filename": "zla_mila_022.md",
         "xhtml": "zla_mila_022.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dům u jezera",
         "subtitleSuggest": "",
         "filename": "zla_mila_023.md",
         "xhtml": "zla_mila_023.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Úzká krajina",
         "subtitleSuggest": "",
         "filename": "zla_mila_024.md",
         "xhtml": "zla_mila_024.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Stroj času",
         "subtitleSuggest": "",
         "filename": "zla_mila_025.md",
         "xhtml": "zla_mila_025.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Doma",
         "subtitleSuggest": "",
         "filename": "zla_mila_026.md",
         "xhtml": "zla_mila_026.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "V úzkém městě",
         "subtitleSuggest": "",
         "filename": "zla_mila_027.md",
         "xhtml": "zla_mila_027.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Stroj času",
         "subtitleSuggest": "",
         "filename": "zla_mila_028.md",
         "xhtml": "zla_mila_028.xhtml"
@@ -858,61 +918,61 @@
         "xhtml": "zla_mila_029.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Pohled z okna úzkého domu",
         "subtitleSuggest": "",
         "filename": "zla_mila_030.md",
         "xhtml": "zla_mila_030.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "V úzkém domě",
         "subtitleSuggest": "",
         "filename": "zla_mila_031.md",
         "xhtml": "zla_mila_031.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Vinárna U posledního penízu",
         "subtitleSuggest": "",
         "filename": "zla_mila_032.md",
         "xhtml": "zla_mila_032.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Stroj času",
         "subtitleSuggest": "",
         "filename": "zla_mila_033.md",
         "xhtml": "zla_mila_033.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Nádraží",
         "subtitleSuggest": "",
         "filename": "zla_mila_034.md",
         "xhtml": "zla_mila_034.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Venkovský dům",
         "subtitleSuggest": "",
         "filename": "zla_mila_035.md",
         "xhtml": "zla_mila_035.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Stroj času",
         "subtitleSuggest": "",
         "filename": "zla_mila_036.md",
         "xhtml": "zla_mila_036.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Venkovský dům",
         "subtitleSuggest": "",
         "filename": "zla_mila_037.md",
         "xhtml": "zla_mila_037.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Venkovské nádraží",
         "subtitleSuggest": "",
         "filename": "zla_mila_038.md",
         "xhtml": "zla_mila_038.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Stroj času",
         "subtitleSuggest": "",
         "filename": "zla_mila_039.md",
         "xhtml": "zla_mila_039.xhtml"
@@ -924,91 +984,91 @@
         "xhtml": "zla_mila_040.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Zase v úzkém domě",
         "subtitleSuggest": "",
         "filename": "zla_mila_041.md",
         "xhtml": "zla_mila_041.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Vinárna U posledního penízu",
         "subtitleSuggest": "",
         "filename": "zla_mila_042.md",
         "xhtml": "zla_mila_042.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Úzké město",
         "subtitleSuggest": "",
         "filename": "zla_mila_043.md",
         "xhtml": "zla_mila_043.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "V jiné ulici",
         "subtitleSuggest": "",
         "filename": "zla_mila_044.md",
         "xhtml": "zla_mila_044.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Stroj času",
         "subtitleSuggest": "",
         "filename": "zla_mila_045.md",
         "xhtml": "zla_mila_045.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "V jiném domě",
         "subtitleSuggest": "",
         "filename": "zla_mila_046.md",
         "xhtml": "zla_mila_046.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Vinárna U posledního penízu",
         "subtitleSuggest": "",
         "filename": "zla_mila_047.md",
         "xhtml": "zla_mila_047.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "V úzkém domě",
         "subtitleSuggest": "",
         "filename": "zla_mila_048.md",
         "xhtml": "zla_mila_048.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Doma",
         "subtitleSuggest": "",
         "filename": "zla_mila_049.md",
         "xhtml": "zla_mila_049.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "V úzkém městě",
         "subtitleSuggest": "",
         "filename": "zla_mila_050.md",
         "xhtml": "zla_mila_050.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Vinárna U posledního penízu",
         "subtitleSuggest": "",
         "filename": "zla_mila_051.md",
         "xhtml": "zla_mila_051.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Panorama",
         "subtitleSuggest": "",
         "filename": "zla_mila_052.md",
         "xhtml": "zla_mila_052.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Doma",
         "subtitleSuggest": "",
         "filename": "zla_mila_053.md",
         "xhtml": "zla_mila_053.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "V úzkém domě",
         "subtitleSuggest": "",
         "filename": "zla_mila_054.md",
         "xhtml": "zla_mila_054.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Vinárna U posledního penízu",
         "subtitleSuggest": "",
         "filename": "zla_mila_055.md",
         "xhtml": "zla_mila_055.xhtml"
@@ -1020,7 +1080,7 @@
         "xhtml": "zla_mila_056.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Pohled do okna úzkého domu",
         "subtitleSuggest": "",
         "filename": "zla_mila_057.md",
         "xhtml": "zla_mila_057.xhtml"
@@ -1097,6 +1157,6 @@
       "user": "books-are-next",
       "repo": "srut-zla-mila-new"
     },
-    "generatedAt": 1653371537545
+    "generatedAt": 1653371945740
   }
 }

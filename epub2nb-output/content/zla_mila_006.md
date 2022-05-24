@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Prolog
 contentType: prose
 ---
-
-Prolog
 
 > Jakápak ona je má milá?
 

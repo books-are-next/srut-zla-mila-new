@@ -1,19 +1,17 @@
 ---
-title: ''
+title: Stroj času
 contentType: prose
 ---
 
-Stroj času
+> **rozostřená krajina**
 
-> rozostřená krajina
+> **jakýsi kostel rozkročený  
+> proti větru**
 
-> jakýsi kostel rozkročený  
-> proti větru
+> **ve slabinách zvon**
 
-> ve slabinách zvon
+> **už je to dávno  
+> neumím bydlet**
 
-> už je to dávno  
-> neumím bydlet
-
-> v rozespánku  
-> tyjiná
+> **v rozespánku  
+> tyjiná**

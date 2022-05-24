@@ -1,27 +1,25 @@
 ---
-title: ''
+title: Stroj času
 contentType: prose
 ---
 
-Stroj času
+> **vidím je před sebou**
 
-> vidím je před sebou
-
-> kamarády u plného stolu  
+> **kamarády u plného stolu  
 > plného nádob na víno  
-> a nádob na popel
+> a nádob na popel**
 
-> všem je  
+> **všem je  
 > dobře  
 > básně nám kouří z hlavy  
 > vše špatné  
-> je zapomenuto
+> je zapomenuto**
 
-> blázince a sebevraždy  
+> **blázince a sebevraždy  
 > dokonce i přirozená  
-> smrt
+> smrt**
 
-> snad tak i zůstane  
+> **snad tak i zůstane  
 > jenom  
 > nesmím  
-> otevřít oči
+> otevřít oči**

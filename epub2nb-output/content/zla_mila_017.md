@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Úzká ulice
 contentType: prose
 ---
-
-Úzká ulice
 
 > V řinčivém letním dešti
 

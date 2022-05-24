@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Dům u jezera
 contentType: prose
 ---
-
-Dům u jezera
 
 > Slyšíš
 

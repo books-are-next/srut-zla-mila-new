@@ -2,8 +2,9 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
   title: Zlá milá
   identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
   author: Pavel Šrut
@@ -11,10 +12,6 @@ meta:
   modified: '2020-12-03T00:00:00.000Z'
 readingOrder:
   - promo.html
-  - zla_mila_001.html
-  - zla_mila_002.html
-  - zla_mila_003.html
-  - zla_mila_004.html
   - zla_mila_005.html
   - zla_mila_006.html
   - zla_mila_007.html
@@ -68,11 +65,12 @@ readingOrder:
   - zla_mila_055.html
   - zla_mila_056.html
   - zla_mila_057.html
-  - zla_mila_058.html
+  - colophon.html
 tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

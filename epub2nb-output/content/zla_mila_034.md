@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Nádraží
 contentType: prose
 ---
-
-Nádraží
 
 > Zpíval si
 

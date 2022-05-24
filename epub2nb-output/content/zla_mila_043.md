@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Úzké město
 contentType: prose
 ---
-
-Úzké město
 
 > Z nezvučné noci  
 > padá a třepí se a zní  

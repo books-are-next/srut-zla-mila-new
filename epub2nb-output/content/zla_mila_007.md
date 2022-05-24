@@ -1,13 +1,11 @@
 ---
-title: ''
+title: Osoby děje
 contentType: prose
 ---
 
-Osoby děje
-
-> mámilá  
+> **mámilá  
 > tajiná  
 > jeroným  
 > vrchní od posledního penízu  
 > maminka  
-> (lyrické) já
+> (lyrické) já**

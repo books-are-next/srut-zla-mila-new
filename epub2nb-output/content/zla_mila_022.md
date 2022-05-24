@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Jezero
 contentType: prose
 ---
-
-Jezero
 
 > Mámilá čeří jezero
 

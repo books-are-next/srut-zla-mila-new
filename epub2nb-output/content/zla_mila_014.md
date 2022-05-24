@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Pohled z okna úzkého domu
 contentType: prose
 ---
-
-Pohled z okna úzkého domu
 
 na dvorku akát v kořenech hádci se množí  
 šelest vyvrací strom na nebi  
