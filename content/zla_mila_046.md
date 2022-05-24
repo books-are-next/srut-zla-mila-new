@@ -1,9 +1,7 @@
 ---
-title: ''
+title: V jiném domě
 contentType: prose
 ---
-
-V jiném domě
 
 > Vidím ji v širokém manželském okně
 

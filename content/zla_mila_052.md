@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Panorama
 contentType: prose
 ---
-
-Panorama
 
 > Chodbami úzkého města
 

@@ -1,9 +1,7 @@
 ---
-title: ''
+title: V úzkém domě
 contentType: prose
 ---
-
-V úzkém domě
 
 > Po čtvrtodenní noci v úzkém domě
 

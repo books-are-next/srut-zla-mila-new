@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Venkovský dům
 contentType: prose
 ---
-
-Venkovský dům
 
 > U maminky po ránu je básník
 

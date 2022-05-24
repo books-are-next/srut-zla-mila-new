@@ -1,9 +1,7 @@
 ---
-title: ''
+title: V jiném domě
 contentType: prose
 ---
-
-V jiném domě
 
 > V jiném domě a v jiné noci
 

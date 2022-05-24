@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Nádraží
 contentType: prose
 ---
-
-Nádraží
 
 > Zpívala si má milá
 

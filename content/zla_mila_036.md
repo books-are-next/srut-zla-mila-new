@@ -1,32 +1,30 @@
 ---
-title: ''
+title: Stroj času
 contentType: prose
 ---
 
-Stroj času
+> **Kdo má rez v hodinkách?**
 
-> Kdo má rez v hodinkách?
-
-> kdyby ti bylo prázdno  
+> **kdyby ti bylo prázdno  
 > nenaplním tě  
 > kdyby ti chybělo  
-> budu ti přebývat
+> budu ti přebývat**
 
-> kdyby ti nebylo prázdno  
+> **kdyby ti nebylo prázdno  
 > kdyby ti nechybělo  
 > kdyby ti nepřebývalo  
-> tyjiná
+> tyjiná**
 
-> nesetkávali bychom se  
+> **nesetkávali bychom se  
 > takhle zdaleka  
 > nemíjeli bychom se  
 > takhle zblízka  
-> jako že v itálii v jednom kuse prší
+> jako že v itálii v jednom kuse prší**
 
-> psal jsem to já  
+> **psal jsem to já  
 > nebo  
-> to psalo mne?
+> to psalo mne?**
 
-> tehdy  
+> **tehdy  
 > nebo  
-> tuhle?
+> tuhle?**

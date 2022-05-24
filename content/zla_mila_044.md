@@ -1,9 +1,7 @@
 ---
-title: ''
+title: V jiné ulici
 contentType: prose
 ---
-
-V jiné ulici
 
 > Zatímco dva stromy kráčejí po ulici
 

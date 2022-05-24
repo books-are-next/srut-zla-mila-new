@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Doma
 contentType: prose
 ---
-
-Doma
 
 > Všichni spali a spali
 

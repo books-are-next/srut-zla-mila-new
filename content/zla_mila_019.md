@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Panorama
 contentType: prose
 ---
-
-Panorama
 
 > Přízemní deště táhnou úzkým městem
 

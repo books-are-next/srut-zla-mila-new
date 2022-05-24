@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Venkovské nádraží
 contentType: prose
 ---
-
-Venkovské nádraží
 
 > Celé roky
 

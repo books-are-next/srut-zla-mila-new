@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Zase v úzkém domě
 contentType: prose
 ---
-
-Zase v úzkém domě
 
 > Celou noc jsme spali na lačno
 

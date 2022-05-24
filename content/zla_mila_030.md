@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Pohled z okna úzkého domu
 contentType: prose
 ---
-
-Pohled z okna úzkého domu
 
 větve se zauzlují čím zelenější zelený  
                                                              lístek byl  
