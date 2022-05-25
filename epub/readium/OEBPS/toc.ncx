@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Zlá milá</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Prolog</text>
+      </navLabel>
+      <content src="Text/zla_mila_006.xhtml#_idParaDest-1"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Osoby děje</text>
+      </navLabel>
+      <content src="Text/zla_mila_007.xhtml#_idParaDest-2"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Místa děje</text>
+      </navLabel>
+      <content src="Text/zla_mila_008.xhtml#_idParaDest-3"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>I</text>
+      </navLabel>
+      <content src="Text/zla_mila_009.xhtml#_idParaDest-4"/>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Doma</text>
+        </navLabel>
+        <content src="Text/zla_mila_010.xhtml#_idParaDest-5"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>V úzkém domě</text>
+        </navLabel>
+        <content src="Text/zla_mila_011.xhtml#_idParaDest-6"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>V jiném domě</text>
+        </navLabel>
+        <content src="Text/zla_mila_012.xhtml#_idParaDest-7"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Vinárna U posledního penízu</text>
+        </navLabel>
+        <content src="Text/zla_mila_013.xhtml#_idParaDest-8"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Pohled z okna úzkého domu</text>
+        </navLabel>
+        <content src="Text/zla_mila_014.xhtml#_idParaDest-9"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>II</text>
+      </navLabel>
+      <content src="Text/zla_mila_015.xhtml#_idParaDest-10"/>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Pohled z okna úzkého domu</text>
+        </navLabel>
+        <content src="Text/zla_mila_016.xhtml#_idParaDest-11"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Úzká ulice</text>
+        </navLabel>
+        <content src="Text/zla_mila_017.xhtml#_idParaDest-12"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Vinárna U posledního penízu</text>
+        </navLabel>
+        <content src="Text/zla_mila_018.xhtml#_idParaDest-13"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Panorama</text>
+        </navLabel>
+        <content src="Text/zla_mila_019.xhtml#_idParaDest-14"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Nádraží</text>
+        </navLabel>
+        <content src="Text/zla_mila_020.xhtml#_idParaDest-15"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Dům u jezera</text>
+        </navLabel>
+        <content src="Text/zla_mila_021.xhtml#_idParaDest-16"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Jezero</text>
+        </navLabel>
+        <content src="Text/zla_mila_022.xhtml#_idParaDest-17"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Dům u jezera</text>
+        </navLabel>
+        <content src="Text/zla_mila_023.xhtml#_idParaDest-18"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Úzká krajina</text>
+        </navLabel>
+        <content src="Text/zla_mila_024.xhtml#_idParaDest-19"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Stroj času</text>
+        </navLabel>
+        <content src="Text/zla_mila_025.xhtml#_idParaDest-20"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>Doma</text>
+        </navLabel>
+        <content src="Text/zla_mila_026.xhtml#_idParaDest-21"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>V úzkém městě</text>
+        </navLabel>
+        <content src="Text/zla_mila_027.xhtml#_idParaDest-22"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>Stroj času</text>
+        </navLabel>
+        <content src="Text/zla_mila_028.xhtml#_idParaDest-23"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>III</text>
+      </navLabel>
+      <content src="Text/zla_mila_029.xhtml#_idParaDest-24"/>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Pohled z okna úzkého domu</text>
+        </navLabel>
+        <content src="Text/zla_mila_030.xhtml#_idParaDest-25"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>V úzkém domě</text>
+        </navLabel>
+        <content src="Text/zla_mila_031.xhtml#_idParaDest-26"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Vinárna U posledního penízu</text>
+        </navLabel>
+        <content src="Text/zla_mila_032.xhtml#_idParaDest-27"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Stroj času</text>
+        </navLabel>
+        <content src="Text/zla_mila_033.xhtml#_idParaDest-28"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>Nádraží</text>
+        </navLabel>
+        <content src="Text/zla_mila_034.xhtml#_idParaDest-29"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Venkovský dům</text>
+        </navLabel>
+        <content src="Text/zla_mila_035.xhtml#_idParaDest-30"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>Stroj času</text>
+        </navLabel>
+        <content src="Text/zla_mila_036.xhtml#_idParaDest-31"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>Venkovský dům</text>
+        </navLabel>
+        <content src="Text/zla_mila_037.xhtml#_idParaDest-32"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>Venkovské nádraží</text>
+        </navLabel>
+        <content src="Text/zla_mila_038.xhtml#_idParaDest-33"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Stroj času</text>
+        </navLabel>
+        <content src="Text/zla_mila_039.xhtml#_idParaDest-34"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>IV</text>
+      </navLabel>
+      <content src="Text/zla_mila_040.xhtml#_idParaDest-35"/>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>Zase v úzkém domě</text>
+        </navLabel>
+        <content src="Text/zla_mila_041.xhtml#_idParaDest-36"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>Vinárna U posledního penízu</text>
+        </navLabel>
+        <content src="Text/zla_mila_042.xhtml#_idParaDest-37"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>Úzké město</text>
+        </navLabel>
+        <content src="Text/zla_mila_043.xhtml#_idParaDest-38"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>V jiné ulici</text>
+        </navLabel>
+        <content src="Text/zla_mila_044.xhtml#_idParaDest-39"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>Stroj času</text>
+        </navLabel>
+        <content src="Text/zla_mila_045.xhtml#_idParaDest-40"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>V jiném domě</text>
+        </navLabel>
+        <content src="Text/zla_mila_046.xhtml#_idParaDest-41"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>Vinárna U posledního penízu</text>
+        </navLabel>
+        <content src="Text/zla_mila_047.xhtml#_idParaDest-42"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>V úzkém domě</text>
+        </navLabel>
+        <content src="Text/zla_mila_048.xhtml#_idParaDest-43"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>Doma</text>
+        </navLabel>
+        <content src="Text/zla_mila_049.xhtml#_idParaDest-44"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>V úzkém městě</text>
+        </navLabel>
+        <content src="Text/zla_mila_050.xhtml#_idParaDest-45"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>Vinárna U posledního penízu</text>
+        </navLabel>
+        <content src="Text/zla_mila_051.xhtml#_idParaDest-46"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>Panorama</text>
+        </navLabel>
+        <content src="Text/zla_mila_052.xhtml#_idParaDest-47"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>Doma</text>
+        </navLabel>
+        <content src="Text/zla_mila_053.xhtml#_idParaDest-48"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>V úzkém domě</text>
+        </navLabel>
+        <content src="Text/zla_mila_054.xhtml#_idParaDest-49"/>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>Vinárna U posledního penízu</text>
+        </navLabel>
+        <content src="Text/zla_mila_055.xhtml#_idParaDest-50"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>V</text>
+      </navLabel>
+      <content src="Text/zla_mila_056.xhtml#_idParaDest-51"/>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>Pohled do okna úzkého domu</text>
+        </navLabel>
+        <content src="Text/zla_mila_057.xhtml#_idParaDest-52"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
