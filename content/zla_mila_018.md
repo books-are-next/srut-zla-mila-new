@@ -5,6 +5,8 @@ contentType: prose
 
 > Dovolená je zlozvyk
 
+  
+
 > jezdím řeku  
 > ale jen protože  
 > mám to v úvazku  
@@ -20,6 +22,8 @@ contentType: prose
 > jako tam stromy pod vodou  
 >      na ždáni?  
 > škoda tak pěkného slova
+
+  
 
 > pinglovská samomluva  
 > varujte se podobných míst

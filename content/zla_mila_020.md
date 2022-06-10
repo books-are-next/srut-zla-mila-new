@@ -5,6 +5,8 @@ contentType: prose
 
 > Zpívala si má milá
 
+  
+
 >      ach jeronýme  
 >      kéž bych ti nohy  
 >      vlastníma rukama nezahřívala  
@@ -13,8 +15,12 @@ contentType: prose
 >      kéž  
 >      by mi břitva sjela
 
+  
+
 > zpívala si mámilá  
 > na útěku
+
+  
 
 >      z odnikud do nikam  
 >      pomyslel si vrchní od posledního penízu  

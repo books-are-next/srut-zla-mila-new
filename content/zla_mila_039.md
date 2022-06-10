@@ -5,9 +5,13 @@ contentType: prose
 
 > **vidím je před sebou**
 
+  
+
 > **kamarády u plného stolu  
 > plného nádob na víno  
 > a nádob na popel**
+
+  
 
 > **všem je  
 > dobře  
@@ -15,9 +19,13 @@ contentType: prose
 > vše špatné  
 > je zapomenuto**
 
+  
+
 > **blázince a sebevraždy  
 > dokonce i přirozená  
 > smrt**
+
+  
 
 > **snad tak i zůstane  
 > jenom  

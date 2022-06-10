@@ -5,6 +5,8 @@ contentType: prose
 
 > Zpíval si
 
+  
+
 >      co je to škapulíř? co škorně?  
 >      co strategie? co détente?  
 >      což žíti šťastně provizorně  
@@ -14,10 +16,16 @@ contentType: prose
 >      dech zpomalen tep nitkový  
 >      padnouti v náruč futuru?
 
+  
+
 > zpíval si na útěku
+
+  
 
 > a vida  
 > ono svítá
+
+  
 
 > a lyrik  
 > stárne-li          jen zevně

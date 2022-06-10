@@ -5,7 +5,11 @@ contentType: prose
 
 > Zatímco nepřišla
 
+  
+
 > čmáral na papírový ubrus
+
+  
 
 > Mámilá!  
 > zas k vínu přikusuju líh  
@@ -19,8 +23,12 @@ contentType: prose
 >      zničehonic  
 >      se samovznítí?
 
+  
+
 > dopis nebo báseň  
 > pomyslel si vrchní  
 > když vyměňoval ubrus
+
+  
 
 >      někdy se to nepozná
