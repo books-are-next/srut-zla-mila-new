@@ -5,6 +5,8 @@ contentType: prose
 
 > Však v úzkém domě
 
+  
+
 > vyváto  
 > a uvnitř jeroným  
 > dotýká se střepů  
@@ -14,5 +16,7 @@ contentType: prose
 > opráší si ruce od křídy  
 > vyjde z domu  
 > zákonný snímatel otisků
+
+  
 
 > obehnal úzký dům křídovým kruhem

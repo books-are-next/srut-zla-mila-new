@@ -5,6 +5,8 @@ contentType: prose
 
 > Vypravěči sluší rozvleklost
 
+  
+
 > ale text iliady se musí  
 > vejít na účtenku  
 > štamgasti mi říkají charón  
@@ -20,10 +22,16 @@ contentType: prose
 > nádraží těšnov?  
 > škoda tak pěkného slova
 
+  
+
 > pinglovská samomluva  
 > varujte se podobných míst
 
+  
+
 > Vejde jeroným
+
+  
 
 > posadí se na mou židli  
 > jako bych tam už  
@@ -31,30 +39,44 @@ contentType: prose
 > co víc  
 > jako bych nikdy nebyl
 
+  
+
 > co hůř  
 > posadí se na mou židli  
 > vedle své  
 > jako by nebyla  
 > má
 
+  
+
 > A jeroným  
 > dál horlivě  
 > vysvětluje pravidla  
 > jakési karetní hry
 
+  
+
 >      karty se drží  
 >      rubem dovnitř  
 >      nebo lícem ven?
 
+  
+
 > zeptala se mámilá
 
+  
+
 > A později tamtéž téhož měsíce
+
+  
 
 > je sanitární den  
 > vrchní  
 > vyhání z kapes moly  
 > chřestí klíči  
 > a si haleká jako převozník:
+
+  
 
 >      tam v úzkým domě  
 > jó tam to smrdí jíškou  
@@ -65,10 +87,16 @@ contentType: prose
 > pro koho? — no pro pavlíka  
 > von jí tu péči splácí…
 
+  
+
 > Je sanitární den
+
+  
 
 > ale my dva uvnitř  
 > ale nevesele
+
+  
 
 > _já_:  
 > ty se chvěješ  
@@ -91,5 +119,7 @@ contentType: prose
 >      kudy?  
 > _ona_:  
 >      mnou…
+
+  
 
 > (smějí se)

@@ -5,6 +5,8 @@ contentType: prose
 
 > Jakápak ona je má milá?
 
+  
+
 > nikdy se jen tak neprocházeli  
 > po zábradlí parníku  
 > nikdy jen tak nezabloudili  
@@ -14,7 +16,11 @@ contentType: prose
 > nikdy si ze samého štěstí  
 > nepustili plyn
 
+  
+
 > jakápak ona je _mámilá_?
+
+  
 
 > nikdy si ze samého smutku  
 > za úsvitu nerozkrojili meloun  

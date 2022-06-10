@@ -5,6 +5,8 @@ contentType: prose
 
 > Všichni spali a spali
 
+  
+
 > a on  
 > sběratel otisků  
 > zakopnuv o školní aktovku  
@@ -15,7 +17,11 @@ contentType: prose
 > uhnětl medvídka  
 > nechal ho na prahu
 
+  
+
 > vracel se úzkým městem  
 > do úzkého domu
+
+  
 
 > kterýž už na kliku

@@ -5,6 +5,8 @@ contentType: prose
 
 > Všichni spali
 
+  
+
 > a on  
 > sběratel otisků  
 > zakopnuv o medvídka  
@@ -13,7 +15,11 @@ contentType: prose
 > (o níž zde už nepadne zmínka)  
 > přemítá
 
+  
+
 > cituji:
+
+  
 
 > prý dělával jsem kdysi cosi  
 > nevím  
@@ -21,6 +27,8 @@ contentType: prose
 > nejspíš jsem domů v kapsách nosil  
 > svým andělům ke zlosti  
 > na vlastní sochu písek
+
+  
 
 > prý bydlíval jsem kdysi kdesi  
 > nevím  
