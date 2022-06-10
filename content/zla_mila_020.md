@@ -3,9 +3,13 @@ title: Nádraží
 contentType: prose
 ---
 
+<section>
+
 > Zpívala si má milá
 
-  
+</section>
+
+<section>
 
 >      ach jeronýme  
 >      kéž bych ti nohy  
@@ -15,14 +19,20 @@ contentType: prose
 >      kéž  
 >      by mi břitva sjela
 
-  
+</section>
+
+<section>
 
 > zpívala si mámilá  
 > na útěku
 
-  
+</section>
+
+<section>
 
 >      z odnikud do nikam  
 >      pomyslel si vrchní od posledního penízu  
 >      jak nás tak zpozoroval  
 >      když pozoroval vlaky
+
+</section>

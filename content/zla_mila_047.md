@@ -3,13 +3,19 @@ title: Vinárna U posledního penízu
 contentType: prose
 ---
 
+<section>
+
 > Zatímco nepřišla
 
-  
+</section>
+
+<section>
 
 > čmáral na papírový ubrus
 
-  
+</section>
+
+<section>
 
 > Mámilá!  
 > zas k vínu přikusuju líh  
@@ -23,12 +29,18 @@ contentType: prose
 >      zničehonic  
 >      se samovznítí?
 
-  
+</section>
+
+<section>
 
 > dopis nebo báseň  
 > pomyslel si vrchní  
 > když vyměňoval ubrus
 
-  
+</section>
+
+<section>
 
 >      někdy se to nepozná
+
+</section>

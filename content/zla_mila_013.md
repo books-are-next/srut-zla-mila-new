@@ -3,9 +3,13 @@ title: Vinárna U posledního penízu
 contentType: prose
 ---
 
+<section>
+
 > Vypravěči sluší rozvleklost
 
-  
+</section>
+
+<section>
 
 > ale text iliady se musí  
 > vejít na účtenku  
@@ -22,16 +26,22 @@ contentType: prose
 > nádraží těšnov?  
 > škoda tak pěkného slova
 
-  
+</section>
+
+<section>
 
 > pinglovská samomluva  
 > varujte se podobných míst
 
-  
+</section>
+
+<section>
 
 > Vejde jeroným
 
-  
+</section>
+
+<section>
 
 > posadí se na mou židli  
 > jako bych tam už  
@@ -39,7 +49,9 @@ contentType: prose
 > co víc  
 > jako bych nikdy nebyl
 
-  
+</section>
+
+<section>
 
 > co hůř  
 > posadí se na mou židli  
@@ -47,28 +59,38 @@ contentType: prose
 > jako by nebyla  
 > má
 
-  
+</section>
+
+<section>
 
 > A jeroným  
 > dál horlivě  
 > vysvětluje pravidla  
 > jakési karetní hry
 
-  
+</section>
+
+<section>
 
 >      karty se drží  
 >      rubem dovnitř  
 >      nebo lícem ven?
 
-  
+</section>
+
+<section>
 
 > zeptala se mámilá
 
-  
+</section>
+
+<section>
 
 > A později tamtéž téhož měsíce
 
-  
+</section>
+
+<section>
 
 > je sanitární den  
 > vrchní  
@@ -76,7 +98,9 @@ contentType: prose
 > chřestí klíči  
 > a si haleká jako převozník:
 
-  
+</section>
+
+<section>
 
 >      tam v úzkým domě  
 > jó tam to smrdí jíškou  
@@ -87,16 +111,22 @@ contentType: prose
 > pro koho? — no pro pavlíka  
 > von jí tu péči splácí…
 
-  
+</section>
+
+<section>
 
 > Je sanitární den
 
-  
+</section>
+
+<section>
 
 > ale my dva uvnitř  
 > ale nevesele
 
-  
+</section>
+
+<section>
 
 > _já_:  
 > ty se chvěješ  
@@ -120,6 +150,10 @@ contentType: prose
 > _ona_:  
 >      mnou…
 
-  
+</section>
+
+<section>
 
 > (smějí se)
+
+</section>

@@ -3,9 +3,13 @@ title: Nádraží
 contentType: prose
 ---
 
+<section>
+
 > Zpíval si
 
-  
+</section>
+
+<section>
 
 >      co je to škapulíř? co škorně?  
 >      co strategie? co détente?  
@@ -16,16 +20,24 @@ contentType: prose
 >      dech zpomalen tep nitkový  
 >      padnouti v náruč futuru?
 
-  
+</section>
+
+<section>
 
 > zpíval si na útěku
 
-  
+</section>
+
+<section>
 
 > a vida  
 > ono svítá
 
-  
+</section>
+
+<section>
 
 > a lyrik  
 > stárne-li          jen zevně
+
+</section>

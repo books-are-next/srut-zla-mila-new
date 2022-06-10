@@ -3,9 +3,13 @@ title: Prolog
 contentType: prose
 ---
 
+<section>
+
 > Jakápak ona je má milá?
 
-  
+</section>
+
+<section>
 
 > nikdy se jen tak neprocházeli  
 > po zábradlí parníku  
@@ -16,11 +20,15 @@ contentType: prose
 > nikdy si ze samého štěstí  
 > nepustili plyn
 
-  
+</section>
+
+<section>
 
 > jakápak ona je _mámilá_?
 
-  
+</section>
+
+<section>
 
 > nikdy si ze samého smutku  
 > za úsvitu nerozkrojili meloun  
@@ -32,3 +40,5 @@ contentType: prose
 > mě nekousla do krku jako jiná  
 > nikdy mi buchet nenapekla  
 > zlá milá
+
+</section>
