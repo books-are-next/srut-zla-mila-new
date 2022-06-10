@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "srut-zla-mila-8428c6d",
-  "revision": "8428c6d",
+  "identifier": "srut-zla-mila-e928273",
+  "revision": "e928273",
   "readingOrder": [
     "promo.html",
     "zla_mila_005.html",
@@ -67,8 +67,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 14:20:52 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654870852432
+    "date": "Fri Jun 10 2022 17:56:19 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883779482
   },
   "documents": [
     {
@@ -266,9 +266,9 @@
     {
       "title": "Pohled z okna úzkého domu",
       "file": "zla_mila_014.html",
-      "words": 5,
-      "chars": 25,
-      "ideas": 1,
+      "words": 24,
+      "chars": 128,
+      "ideas": 4,
       "role": "chapter",
       "order": 10,
       "prev": "zla_mila_013.html",
@@ -306,9 +306,9 @@
     {
       "title": "Pohled z okna úzkého domu",
       "file": "zla_mila_016.html",
-      "words": 5,
-      "chars": 25,
-      "ideas": 1,
+      "words": 12,
+      "chars": 59,
+      "ideas": 2,
       "role": "chapter",
       "order": 12,
       "prev": "zla_mila_015.html",
@@ -586,9 +586,9 @@
     {
       "title": "Pohled z okna úzkého domu",
       "file": "zla_mila_030.html",
-      "words": 5,
-      "chars": 25,
-      "ideas": 1,
+      "words": 25,
+      "chars": 142,
+      "ideas": 6,
       "role": "chapter",
       "order": 26,
       "prev": "zla_mila_029.html",
@@ -1126,9 +1126,9 @@
     {
       "title": "Pohled do okna úzkého domu",
       "file": "zla_mila_057.html",
-      "words": 5,
-      "chars": 26,
-      "ideas": 1,
+      "words": 21,
+      "chars": 127,
+      "ideas": 6,
       "role": "chapter",
       "order": 53,
       "prev": "zla_mila_056.html",
@@ -1146,9 +1146,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 121,
-      "chars": 758,
-      "ideas": 16,
+      "words": 85,
+      "chars": 558,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "zla_mila_057.html",
@@ -1166,14 +1166,14 @@
   ],
   "totals": {
     "all": {
-      "words": 3932,
-      "chars": 21311,
-      "ideas": 1134
+      "words": 3958,
+      "chars": 21466,
+      "ideas": 1139
     },
     "chapters": {
-      "words": 3807,
-      "chars": 20535,
-      "ideas": 1116
+      "words": 3869,
+      "chars": 20890,
+      "ideas": 1130
     }
   }
 }

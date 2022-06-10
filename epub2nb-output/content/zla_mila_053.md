@@ -3,9 +3,13 @@ title: Doma
 contentType: prose
 ---
 
+<section>
+
 > Všichni spali a spali
 
-  
+</section>
+
+<section>
 
 > a on  
 > sběratel otisků  
@@ -17,11 +21,17 @@ contentType: prose
 > uhnětl medvídka  
 > nechal ho na prahu
 
-  
+</section>
+
+<section>
 
 > vracel se úzkým městem  
 > do úzkého domu
 
-  
+</section>
+
+<section>
 
 > kterýž už na kliku
+
+</section>

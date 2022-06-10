@@ -3,9 +3,13 @@ title: Vinárna U posledního penízu
 contentType: prose
 ---
 
+<section>
+
 > Dovolená je zlozvyk
 
-  
+</section>
+
+<section>
 
 > jezdím řeku  
 > ale jen protože  
@@ -23,7 +27,11 @@ contentType: prose
 >      na ždáni?  
 > škoda tak pěkného slova
 
-  
+</section>
+
+<section>
 
 > pinglovská samomluva  
 > varujte se podobných míst
+
+</section>

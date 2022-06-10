@@ -3,9 +3,13 @@ title: V úzkém domě
 contentType: prose
 ---
 
+<section>
+
 > Však v úzkém domě
 
-  
+</section>
+
+<section>
 
 > vyváto  
 > a uvnitř jeroným  
@@ -17,6 +21,10 @@ contentType: prose
 > vyjde z domu  
 > zákonný snímatel otisků
 
-  
+</section>
+
+<section>
 
 > obehnal úzký dům křídovým kruhem
+
+</section>

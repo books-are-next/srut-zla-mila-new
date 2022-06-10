@@ -3,15 +3,21 @@ title: Doma
 contentType: prose
 ---
 
+<section>
+
 > Všichni dělali jako by spali
 
-  
+</section>
+
+<section>
 
 > a „já se provlék klíčovou dírkou  
 > jako kouř cigarety tenký“  
 > odříkávaje svoji kámasútru:
 
-  
+</section>
+
+<section>
 
 >      dnes dám si nohu za ucho  
 >      poučen o rozkoši  
@@ -19,7 +25,9 @@ contentType: prose
 >      vyměním kůži hroší  
 >      za saténový duplikát
 
-  
+</section>
+
+<section>
 
 > a nepokazím  
 > kuřáckou záduchou  
@@ -28,7 +36,9 @@ contentType: prose
 > do terénu  
 > který je bez okolí
 
-  
+</section>
+
+<section>
 
 >      dnes dám si nohu za ucho  
 >      a zapomenu  
@@ -36,3 +46,5 @@ contentType: prose
 >      kde  
 >      a proč  
 >      mne bolí
+
+</section>

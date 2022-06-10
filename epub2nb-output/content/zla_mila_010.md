@@ -3,9 +3,13 @@ title: Doma
 contentType: prose
 ---
 
+<section>
+
 > Všichni spali
 
-  
+</section>
+
+<section>
 
 > a on  
 > sběratel otisků  
@@ -15,11 +19,15 @@ contentType: prose
 > (o níž zde už nepadne zmínka)  
 > přemítá
 
-  
+</section>
+
+<section>
 
 > cituji:
 
-  
+</section>
+
+<section>
 
 > prý dělával jsem kdysi cosi  
 > nevím  
@@ -28,7 +36,9 @@ contentType: prose
 > svým andělům ke zlosti  
 > na vlastní sochu písek
 
-  
+</section>
+
+<section>
 
 > prý bydlíval jsem kdysi kdesi  
 > nevím  
@@ -36,3 +46,5 @@ contentType: prose
 > životu bez adresy  
 > a k vyprchané noční opilosti  
 > po ránu sháním duplikát
+
+</section>
