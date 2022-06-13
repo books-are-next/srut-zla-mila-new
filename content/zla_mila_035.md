@@ -127,7 +127,7 @@ contentType: prose
 <section>
 
 > Jednou jsem maminku vyblejsknul  
->                                             v pivoňkách  
+>             v pivoňkách  
 >      a v plném slunci zahrady  
 >      vyvolávám negativ:
 

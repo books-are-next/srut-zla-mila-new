@@ -31,7 +31,7 @@ contentType: prose
 
 > tak komické to muselo být  
 > že jeroným  
-> poprvé ho osloví:                             lyriku! dnes darujete krev  
->                                  a zítra líh
+> poprvé ho osloví:            lyriku! dnes darujete krev  
+>             a zítra líh
 
 </section>

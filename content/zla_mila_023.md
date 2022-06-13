@@ -31,7 +31,7 @@ contentType: prose
 
 > vstoupí znovu do jezera  
 > šťastně rozteskněná  
-> optickým klamem:                                hůl ve vodě se láme
+> optickým klamem:            hůl ve vodě se láme
 
 </section>
 
