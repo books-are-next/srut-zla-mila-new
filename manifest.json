@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "srut-zla-mila-0fadbd5",
-  "revision": "0fadbd5",
+  "identifier": "srut-zla-mila-f3fd47f",
+  "revision": "f3fd47f",
   "readingOrder": [
     "promo.html",
     "zla_mila_005.html",
@@ -67,8 +67,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 12:11:49 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654949509786
+    "date": "Mon Jun 13 2022 21:58:34 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655157514703
   },
   "documents": [
     {
@@ -447,7 +447,7 @@
       "title": "Dům u jezera",
       "file": "zla_mila_023.html",
       "words": 204,
-      "chars": 1222,
+      "chars": 1202,
       "ideas": 61,
       "role": "chapter",
       "order": 19,
@@ -867,7 +867,7 @@
       "title": "V jiné ulici",
       "file": "zla_mila_044.html",
       "words": 58,
-      "chars": 343,
+      "chars": 326,
       "ideas": 14,
       "role": "chapter",
       "order": 40,
@@ -1146,9 +1146,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 85,
-      "chars": 558,
-      "ideas": 7,
+      "words": 121,
+      "chars": 758,
+      "ideas": 16,
       "role": "colophon",
       "order": null,
       "prev": "zla_mila_057.html",
@@ -1166,13 +1166,13 @@
   ],
   "totals": {
     "all": {
-      "words": 3958,
-      "chars": 21466,
-      "ideas": 1139
+      "words": 3994,
+      "chars": 21629,
+      "ideas": 1148
     },
     "chapters": {
       "words": 3869,
-      "chars": 20890,
+      "chars": 20853,
       "ideas": 1130
     }
   }

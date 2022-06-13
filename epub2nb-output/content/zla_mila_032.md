@@ -85,7 +85,7 @@ contentType: prose
 > i ona  
 > i ony  
 > ztrácely se mi…  
->                               ikony
+>             ikony
 
 </section>
 

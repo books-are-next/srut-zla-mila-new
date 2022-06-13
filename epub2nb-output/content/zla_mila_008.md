@@ -6,7 +6,7 @@ contentType: prose
 <section>
 
 > **Úzkým městem** **je míněno koryto ulic,  
->                                                                  které se  
+>             které se  
 > z dolních Vinohrad svažují k Žižkovu  
 > a kachlíkovaným tunelem pro pěší ústí  
 > do Karlína, kde stál (a snad stojí)  
@@ -17,23 +17,23 @@ contentType: prose
 <section>
 
 > **U posledního penízu** **byl název denní  
->                                                                  vinárny  
+>             vinárny  
 > na Sokolovské ulici. Stála někde mezi  
 > dnešní stanicí metra a supermarketem  
->                                                                  Delvita**
+>             Delvita**
 
 </section>
 
 <section>
 
 > **Jezero** **je nadnesené pojmenování  
->                                                    slapské nádrže**
+>             slapské nádrže**
 
 </section>
 
 <section>
 
 > **Venkovský dům** **stojí v libovolné vsi na  
->                                                                  Čáslavsku**
+>             Čáslavsku**
 
 </section>

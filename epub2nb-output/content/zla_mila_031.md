@@ -37,8 +37,8 @@ contentType: prose
 > věděl kudy  
 > nevěděl kam:  
 > uvízlý mezi…  
->                           šeříky a bezy  
->                           usmála se má říkánková
+>             šeříky a bezy  
+>             usmála se má říkánková
 
 </section>
 
