@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "srut-zla-mila-f3fd47f",
-  "revision": "f3fd47f",
+  "identifier": "srut-zla-mila-c1001ac",
+  "revision": "c1001ac",
   "readingOrder": [
     "promo.html",
     "zla_mila_005.html",
@@ -67,8 +67,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 21:58:34 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655157514703
+    "date": "Wed Jun 15 2022 05:57:58 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655272678103
   },
   "documents": [
     {
@@ -1146,8 +1146,8 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 121,
-      "chars": 758,
+      "words": 135,
+      "chars": 865,
       "ideas": 16,
       "role": "colophon",
       "order": null,
@@ -1166,8 +1166,8 @@
   ],
   "totals": {
     "all": {
-      "words": 3994,
-      "chars": 21629,
+      "words": 4008,
+      "chars": 21736,
       "ideas": 1148
     },
     "chapters": {
