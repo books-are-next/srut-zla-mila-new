@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "srut-zla-mila-c1001ac",
-  "revision": "c1001ac",
+  "identifier": "srut-zla-mila-94768e4",
+  "revision": "94768e4",
   "readingOrder": [
     "promo.html",
     "zla_mila_005.html",
@@ -67,8 +67,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:57:58 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272678103
+    "date": "Thu Jun 23 2022 10:28:29 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655980109080
   },
   "documents": [
     {
