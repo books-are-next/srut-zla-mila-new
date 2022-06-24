@@ -138,28 +138,28 @@ pustiny:
 
 <section>
 
-     Řídký je říjen  
+     _Řídký je říjen  
      a v celém domě jediný  
      rozeschlý džber. Červotočivé  
-     světlo pracuje,
+     světlo pracuje,_
 
 </section>
 
 <section>
 
-     ze stromů píšťaly, a já  
+     _ze stromů píšťaly, a já  
      nikde. Matka  
      dojí ovci do listí  
-     a pláče.
+     a pláče._
 
 </section>
 
 <section>
 
-     Je. Je daleko  
+     _Je. Je daleko  
      kamkoli, je hluboko odevšad.  
      Bojím se přes dvůr,  
-     tam skořápky a nať.
+     tam skořápky a nať._
 
 </section>
 
