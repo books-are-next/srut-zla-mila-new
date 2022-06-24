@@ -1,15 +1,15 @@
 ---
 title: Osoby děje
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-> **mámilá  
-> tajiná  
-> jeroným  
-> vrchní od posledního penízu  
-> maminka  
-> (lyrické) já**
+**mámilá  
+tajiná  
+jeroným  
+vrchní od posledního penízu  
+maminka  
+(lyrické) já**
 
 </section>

@@ -1,45 +1,45 @@
 ---
 title: Stroj času
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-> **vidím je před sebou**
+**vidím je před sebou**
 
 </section>
 
 <section>
 
-> **kamarády u plného stolu  
-> plného nádob na víno  
-> a nádob na popel**
+**kamarády u plného stolu  
+plného nádob na víno  
+a nádob na popel**
 
 </section>
 
 <section>
 
-> **všem je  
-> dobře  
-> básně nám kouří z hlavy  
-> vše špatné  
-> je zapomenuto**
+**všem je  
+dobře  
+básně nám kouří z hlavy  
+vše špatné  
+je zapomenuto**
 
 </section>
 
 <section>
 
-> **blázince a sebevraždy  
-> dokonce i přirozená  
-> smrt**
+**blázince a sebevraždy  
+dokonce i přirozená  
+smrt**
 
 </section>
 
 <section>
 
-> **snad tak i zůstane  
-> jenom  
-> nesmím  
-> otevřít oči**
+**snad tak i zůstane  
+jenom  
+nesmím  
+otevřít oči**
 
 </section>

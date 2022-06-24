@@ -1,37 +1,37 @@
 ---
 title: Stroj času
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-> **rozostřená krajina**
+**rozostřená krajina**
 
 </section>
 
 <section>
 
-> **jakýsi kostel rozkročený  
-> proti větru**
+**jakýsi kostel rozkročený  
+proti větru**
 
 </section>
 
 <section>
 
-> **ve slabinách zvon**
+**ve slabinách zvon**
 
 </section>
 
 <section>
 
-> **už je to dávno  
-> neumím bydlet**
+**už je to dávno  
+neumím bydlet**
 
 </section>
 
 <section>
 
-> **v rozespánku  
-> tyjiná**
+**v rozespánku  
+tyjiná**
 
 </section>

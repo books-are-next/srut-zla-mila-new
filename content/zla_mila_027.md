@@ -1,34 +1,34 @@
 ---
 title: V úzkém městě
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-> Jeroným přepočítává její vlasy
+Jeroným přepočítává její vlasy
 
 </section>
 
 <section>
 
-> v jejím spánku  
-> a já doma
+v jejím spánku  
+a já doma
 
 </section>
 
 <section>
 
-> zkouším jednou rukou  
-> uvázat uzel na kravatě  
-> do níž vpletla svůj vlas
+zkouším jednou rukou  
+uvázat uzel na kravatě  
+do níž vpletla svůj vlas
 
 </section>
 
 <section>
 
-> nešťasten že nic  
-> nemá smysl  
-> šťasten  
-> že tomu tak
+nešťasten že nic  
+nemá smysl  
+šťasten  
+že tomu tak
 
 </section>

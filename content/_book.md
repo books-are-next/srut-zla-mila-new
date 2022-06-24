@@ -10,6 +10,9 @@ meta:
   author: Pavel Šrut
   publisher: Městská knihovna v Praze
   modified: '2020-12-03T00:00:00.000Z'
+  contentType: poetry
+  publisherShort: mkp
+  edition: poezie
 readingOrder:
   - promo.html
   - zla_mila_005.html
