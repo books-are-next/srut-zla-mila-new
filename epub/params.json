@@ -6,7 +6,10 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Pavel Šrut",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2020-12-03T00:00:00.000Z"
+      "modified": "2020-12-03T00:00:00.000Z",
+      "contentType": "poetry",
+      "publisherShort": "mkp",
+      "edition": "poezie"
     },
     "elements": {
       "title": "uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola\nMLP_uroven2_basne",
@@ -20,13 +23,14 @@
       "br": "",
       "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
       "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
-      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
+      "blockquote": "MLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
       "figure": "MLP_obrazky\nMLP-obrazky",
+      "centered": "",
+      "verse": "MLP-verse\nMLP-verse.+\nMLP_verse_-0-12-",
       "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat",
       "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf\nMLP_znak_tucne_11b",
       "remove": "",
-      "ignore": "",
-      "verse": "MLP-verse\nMLP-verse.+"
+      "ignore": ""
     },
     "structure": [
       {
@@ -104,8 +108,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Prolog"
+            "title": "Prolog",
+            "children": []
           },
           {
             "filename": "zla_mila_007.md",
@@ -117,8 +121,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Osoby děje"
+            "title": "Osoby děje",
+            "children": []
           },
           {
             "filename": "zla_mila_008.md",
@@ -130,8 +134,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Místa děje"
+            "title": "Místa děje",
+            "children": []
           },
           {
             "filename": "zla_mila_009.md",
@@ -143,6 +147,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "I",
             "children": [
               {
                 "filename": "zla_mila_010.md",
@@ -154,8 +159,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Doma"
+                "title": "Doma",
+                "children": []
               },
               {
                 "filename": "zla_mila_011.md",
@@ -167,8 +172,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "V úzkém domě"
+                "title": "V úzkém domě",
+                "children": []
               },
               {
                 "filename": "zla_mila_012.md",
@@ -180,8 +185,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "V jiném domě"
+                "title": "V jiném domě",
+                "children": []
               },
               {
                 "filename": "zla_mila_013.md",
@@ -193,8 +198,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Vinárna U posledního penízu"
+                "title": "Vinárna U posledního penízu",
+                "children": []
               },
               {
                 "filename": "zla_mila_014.md",
@@ -206,11 +211,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Pohled z okna úzkého domu"
+                "title": "Pohled z okna úzkého domu",
+                "children": []
               }
-            ],
-            "title": "I"
+            ]
           },
           {
             "filename": "zla_mila_015.md",
@@ -222,6 +226,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "II",
             "children": [
               {
                 "filename": "zla_mila_016.md",
@@ -233,8 +238,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Pohled z okna úzkého domu"
+                "title": "Pohled z okna úzkého domu",
+                "children": []
               },
               {
                 "filename": "zla_mila_017.md",
@@ -246,8 +251,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Úzká ulice"
+                "title": "Úzká ulice",
+                "children": []
               },
               {
                 "filename": "zla_mila_018.md",
@@ -259,8 +264,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Vinárna U posledního penízu"
+                "title": "Vinárna U posledního penízu",
+                "children": []
               },
               {
                 "filename": "zla_mila_019.md",
@@ -272,8 +277,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Panorama"
+                "title": "Panorama",
+                "children": []
               },
               {
                 "filename": "zla_mila_020.md",
@@ -285,8 +290,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Nádraží"
+                "title": "Nádraží",
+                "children": []
               },
               {
                 "filename": "zla_mila_021.md",
@@ -298,8 +303,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Dům u jezera"
+                "title": "Dům u jezera",
+                "children": []
               },
               {
                 "filename": "zla_mila_022.md",
@@ -311,8 +316,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Jezero"
+                "title": "Jezero",
+                "children": []
               },
               {
                 "filename": "zla_mila_023.md",
@@ -324,8 +329,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Dům u jezera"
+                "title": "Dům u jezera",
+                "children": []
               },
               {
                 "filename": "zla_mila_024.md",
@@ -337,8 +342,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Úzká krajina"
+                "title": "Úzká krajina",
+                "children": []
               },
               {
                 "filename": "zla_mila_025.md",
@@ -350,8 +355,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Stroj času"
+                "title": "Stroj času",
+                "children": []
               },
               {
                 "filename": "zla_mila_026.md",
@@ -363,8 +368,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Doma"
+                "title": "Doma",
+                "children": []
               },
               {
                 "filename": "zla_mila_027.md",
@@ -376,8 +381,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "V úzkém městě"
+                "title": "V úzkém městě",
+                "children": []
               },
               {
                 "filename": "zla_mila_028.md",
@@ -389,11 +394,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Stroj času"
+                "title": "Stroj času",
+                "children": []
               }
-            ],
-            "title": "II"
+            ]
           },
           {
             "filename": "zla_mila_029.md",
@@ -405,6 +409,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "III",
             "children": [
               {
                 "filename": "zla_mila_030.md",
@@ -416,8 +421,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Pohled z okna úzkého domu"
+                "title": "Pohled z okna úzkého domu",
+                "children": []
               },
               {
                 "filename": "zla_mila_031.md",
@@ -429,8 +434,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "V úzkém domě"
+                "title": "V úzkém domě",
+                "children": []
               },
               {
                 "filename": "zla_mila_032.md",
@@ -442,8 +447,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Vinárna U posledního penízu"
+                "title": "Vinárna U posledního penízu",
+                "children": []
               },
               {
                 "filename": "zla_mila_033.md",
@@ -455,8 +460,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Stroj času"
+                "title": "Stroj času",
+                "children": []
               },
               {
                 "filename": "zla_mila_034.md",
@@ -468,8 +473,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Nádraží"
+                "title": "Nádraží",
+                "children": []
               },
               {
                 "filename": "zla_mila_035.md",
@@ -481,8 +486,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Venkovský dům"
+                "title": "Venkovský dům",
+                "children": []
               },
               {
                 "filename": "zla_mila_036.md",
@@ -494,8 +499,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Stroj času"
+                "title": "Stroj času",
+                "children": []
               },
               {
                 "filename": "zla_mila_037.md",
@@ -507,8 +512,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Venkovský dům"
+                "title": "Venkovský dům",
+                "children": []
               },
               {
                 "filename": "zla_mila_038.md",
@@ -520,8 +525,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Venkovské nádraží"
+                "title": "Venkovské nádraží",
+                "children": []
               },
               {
                 "filename": "zla_mila_039.md",
@@ -533,11 +538,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Stroj času"
+                "title": "Stroj času",
+                "children": []
               }
-            ],
-            "title": "III"
+            ]
           },
           {
             "filename": "zla_mila_040.md",
@@ -549,6 +553,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "IV",
             "children": [
               {
                 "filename": "zla_mila_041.md",
@@ -560,8 +565,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Zase v úzkém domě"
+                "title": "Zase v úzkém domě",
+                "children": []
               },
               {
                 "filename": "zla_mila_042.md",
@@ -573,8 +578,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Vinárna U posledního penízu"
+                "title": "Vinárna U posledního penízu",
+                "children": []
               },
               {
                 "filename": "zla_mila_043.md",
@@ -586,8 +591,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Úzké město"
+                "title": "Úzké město",
+                "children": []
               },
               {
                 "filename": "zla_mila_044.md",
@@ -599,8 +604,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "V jiné ulici"
+                "title": "V jiné ulici",
+                "children": []
               },
               {
                 "filename": "zla_mila_045.md",
@@ -612,8 +617,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Stroj času"
+                "title": "Stroj času",
+                "children": []
               },
               {
                 "filename": "zla_mila_046.md",
@@ -625,8 +630,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "V jiném domě"
+                "title": "V jiném domě",
+                "children": []
               },
               {
                 "filename": "zla_mila_047.md",
@@ -638,8 +643,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Vinárna U posledního penízu"
+                "title": "Vinárna U posledního penízu",
+                "children": []
               },
               {
                 "filename": "zla_mila_048.md",
@@ -651,8 +656,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "V úzkém domě"
+                "title": "V úzkém domě",
+                "children": []
               },
               {
                 "filename": "zla_mila_049.md",
@@ -664,8 +669,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Doma"
+                "title": "Doma",
+                "children": []
               },
               {
                 "filename": "zla_mila_050.md",
@@ -677,8 +682,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "V úzkém městě"
+                "title": "V úzkém městě",
+                "children": []
               },
               {
                 "filename": "zla_mila_051.md",
@@ -690,8 +695,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Vinárna U posledního penízu"
+                "title": "Vinárna U posledního penízu",
+                "children": []
               },
               {
                 "filename": "zla_mila_052.md",
@@ -703,8 +708,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Panorama"
+                "title": "Panorama",
+                "children": []
               },
               {
                 "filename": "zla_mila_053.md",
@@ -716,8 +721,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Doma"
+                "title": "Doma",
+                "children": []
               },
               {
                 "filename": "zla_mila_054.md",
@@ -729,8 +734,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "V úzkém domě"
+                "title": "V úzkém domě",
+                "children": []
               },
               {
                 "filename": "zla_mila_055.md",
@@ -742,11 +747,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Vinárna U posledního penízu"
+                "title": "Vinárna U posledního penízu",
+                "children": []
               }
-            ],
-            "title": "IV"
+            ]
           },
           {
             "filename": "zla_mila_056.md",
@@ -758,6 +762,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "V",
             "children": [
               {
                 "filename": "zla_mila_057.md",
@@ -769,11 +774,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Pohled do okna úzkého domu"
+                "title": "Pohled do okna úzkého domu",
+                "children": []
               }
-            ],
-            "title": "V"
+            ]
           },
           {
             "filename": "zla_mila_058.md",
@@ -789,7 +793,8 @@
           }
         ]
       }
-    ]
+    ],
+    "replacements": []
   },
   "epub": {
     "metadata": {
@@ -797,7 +802,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Pavel Šrut",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2020-12-02T23:00:00.000Z"
+      "modified": "2020-12-03T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -1210,7 +1215,10 @@
       "_idGenObjectStyleOverride-1",
       "_idGenParaOverride-1"
     ],
-    "github": null,
-    "generatedAt": 1653403443499
+    "github": {
+      "user": "books-are-next",
+      "repo": "srut-zla-mila-new"
+    },
+    "generatedAt": 1655979745901
   }
 }
