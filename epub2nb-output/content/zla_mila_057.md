@@ -1,6 +1,6 @@
 ---
 title: Pohled do okna úzkého domu
-contentType: prose
+contentType: poetry
 ---
 
 <section>

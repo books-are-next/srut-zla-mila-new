@@ -1,138 +1,138 @@
 ---
 title: Vinárna U posledního penízu
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-> Lokálem hučí voda
+Lokálem hučí voda
 
 </section>
 
 <section>
 
-> vrchní si prozpěvuje
+vrchní si prozpěvuje
 
 </section>
 
 <section>
 
->      obrať se zády  
->      ke všemu co bylo  
->      ustel si na slunci  
->      a čekej závěje  
->      obrať se zády  
->      ke všemu co bude  
->      jenom tak poznáš  
->      to co právě je
+     obrať se zády  
+     ke všemu co bylo  
+     ustel si na slunci  
+     a čekej závěje  
+     obrať se zády  
+     ke všemu co bude  
+     jenom tak poznáš  
+     to co právě je
 
 </section>
 
 <section>
 
-> a když čmárá na účtenku  
-> praví: z básníka zůstanou dvě řádky  
-> jen je najít
+a když čmárá na účtenku  
+praví: z básníka zůstanou dvě řádky  
+jen je najít
 
 </section>
 
 <section>
 
-> například pavese: řemeslo žít  
-> a: a přijde smrt a bude mít tvé oči
+například pavese: řemeslo žít  
+a: a přijde smrt a bude mít tvé oči
 
 </section>
 
 <section>
 
-> Dvě jehly v kupce popsaného ticha
+Dvě jehly v kupce popsaného ticha
 
 </section>
 
 <section>
 
-> obrátila se mámilá  
-> k té druhé  
-> (rozumějí si)
+obrátila se mámilá  
+k té druhé  
+(rozumějí si)
 
 </section>
 
 <section>
 
-> _ona:_  
-> lyrik má sametové důtky  
-> neptá se a deptá se a krásní  
-> _a ona:_  
-> teskně a lahodně  
-> pod těmi důtkami a v básni
+_ona:_  
+lyrik má sametové důtky  
+neptá se a deptá se a krásní  
+_a ona:_  
+teskně a lahodně  
+pod těmi důtkami a v básni
 
 </section>
 
 <section>
 
-> rýmují se
+rýmují se
 
 </section>
 
 <section>
 
-> Něco se stalo
+Něco se stalo
 
 </section>
 
 <section>
 
-> i ona  
-> i ony  
-> ztrácely se mi…  
->             ikony
+i ona  
+i ony  
+ztrácely se mi…  
+            ikony
 
 </section>
 
 <section>
 
-> měl bych něco udělat
+měl bych něco udělat
 
 </section>
 
 <section>
 
-> říznout se do malíčku  
-> ukazováček namočit  
-> do té kaluže inkoustu
+říznout se do malíčku  
+ukazováček namočit  
+do té kaluže inkoustu
 
 </section>
 
 <section>
 
-> a psát
+a psát
 
 </section>
 
 <section>
 
-> dějiny  
-> libovolné květiny
+dějiny  
+libovolné květiny
 
 </section>
 
 <section>
 
-> Lokálem hučí voda
+Lokálem hučí voda
 
 </section>
 
 <section>
 
-> a vrchní praví: stržené splachovadlo  
-> žádná styx!
+a vrchní praví: stržené splachovadlo  
+žádná styx!
 
 </section>
 
 <section>
 
-> a pobaveně odříkává cosi z (mé)  
-> pustiny:
+a pobaveně odříkává cosi z (mé)  
+pustiny:
 
 </section>
 
@@ -165,35 +165,35 @@ contentType: prose
 
 <section>
 
-> Po téhle básni zle jsem se zlil
+Po téhle básni zle jsem se zlil
 
 </section>
 
 <section>
 
-> chodba mi byla najednou  
-> smutná a úzká  
-> a laskavý hlas vrchního  
-> zněl jako z tunelu:
+chodba mi byla najednou  
+smutná a úzká  
+a laskavý hlas vrchního  
+zněl jako z tunelu:
 
 </section>
 
 <section>
 
->      gramaticky vzato  
->      každý lyrik je nedokonavý/trvací
+     gramaticky vzato  
+     každý lyrik je nedokonavý/trvací
 
 </section>
 
 <section>
 
->      a otloukáním o stěnu  
->      probouzí jakous ozvěnu
+     a otloukáním o stěnu  
+     probouzí jakous ozvěnu
 
 </section>
 
 <section>
 
->      a slovo se mu navrací
+     a slovo se mu navrací
 
 </section>

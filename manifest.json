@@ -5,10 +5,11 @@
   "title": "Zlá milá",
   "author": "Pavel Šrut",
   "publisher": "Městská knihovna v Praze",
+  "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "srut-zla-mila-94768e4",
-  "revision": "94768e4",
+  "identifier": "srut-zla-mila-8396a68",
+  "revision": "8396a68",
   "readingOrder": [
     "promo.html",
     "zla_mila_005.html",
@@ -67,8 +68,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:28:29 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655980109080
+    "date": "Fri Jun 24 2022 08:30:49 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1656059449775
   },
   "documents": [
     {
@@ -226,8 +227,8 @@
     {
       "title": "V jiném domě",
       "file": "zla_mila_012.html",
-      "words": 131,
-      "chars": 725,
+      "words": 130,
+      "chars": 720,
       "ideas": 37,
       "role": "chapter",
       "order": 8,
@@ -626,8 +627,8 @@
     {
       "title": "Vinárna U posledního penízu",
       "file": "zla_mila_032.html",
-      "words": 233,
-      "chars": 1202,
+      "words": 232,
+      "chars": 1197,
       "ideas": 66,
       "role": "chapter",
       "order": 28,
@@ -926,8 +927,8 @@
     {
       "title": "Vinárna U posledního penízu",
       "file": "zla_mila_047.html",
-      "words": 56,
-      "chars": 310,
+      "words": 55,
+      "chars": 305,
       "ideas": 18,
       "role": "chapter",
       "order": 43,
@@ -1086,8 +1087,8 @@
     {
       "title": "Vinárna U posledního penízu",
       "file": "zla_mila_055.html",
-      "words": 156,
-      "chars": 896,
+      "words": 155,
+      "chars": 891,
       "ideas": 42,
       "role": "chapter",
       "order": 51,
@@ -1166,13 +1167,13 @@
   ],
   "totals": {
     "all": {
-      "words": 4008,
-      "chars": 21736,
-      "ideas": 1148
+      "words": 4006,
+      "chars": 21725,
+      "ideas": 1150
     },
     "chapters": {
-      "words": 3869,
-      "chars": 20853,
+      "words": 3865,
+      "chars": 20833,
       "ideas": 1130
     }
   }

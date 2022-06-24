@@ -1,35 +1,35 @@
 ---
 title: Stroj času
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-> **Já to nebyl**
+**Já to nebyl**
 
 </section>
 
 <section>
 
-> **to příběh tě vyhnal z příběhu  
-> tyjiná  
-> vzpříčila ses  
-> šutýrku  
-> v hrdle přesýpacích hodin**
+**to příběh tě vyhnal z příběhu  
+tyjiná  
+vzpříčila ses  
+šutýrku  
+v hrdle přesýpacích hodin**
 
 </section>
 
 <section>
 
-> **kdo (jiný než ty):  
-> písečná mouka**
+**kdo (jiný než ty):  
+písečná mouka**
 
 </section>
 
 <section>
 
-> **přivane (jinému)  
-> ty zadrhlé kamínky  
-> jako že na sahaře nezafouká**
+**přivane (jinému)  
+ty zadrhlé kamínky  
+jako že na sahaře nezafouká**
 
 </section>
