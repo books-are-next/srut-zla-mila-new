@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "srut-zla-mila-a3aa00d",
-  "revision": "a3aa00d",
+  "identifier": "srut-zla-mila-cefbeed",
+  "revision": "cefbeed",
   "readingOrder": [
     "promo.html",
     "zla_mila_005.html",
@@ -65,11 +65,11 @@
     "zla_mila_055.html",
     "zla_mila_056.html",
     "zla_mila_057.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 24 2022 09:17:59 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1656062279935
+    "date": "Thu Jul 07 2022 08:39:50 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183190150
   },
   "documents": [
     {
@@ -258,7 +258,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Vinárna U posledního penízu",
+          "name": "Vinárna U posledního penízu",
           "id": null,
           "children": []
         }
@@ -278,7 +278,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Pohled z okna úzkého domu",
+          "name": "Pohled z okna úzkého domu",
           "id": null,
           "children": []
         }
@@ -318,7 +318,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Pohled z okna úzkého domu",
+          "name": "Pohled z okna úzkého domu",
           "id": null,
           "children": []
         }
@@ -358,7 +358,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Vinárna U posledního penízu",
+          "name": "Vinárna U posledního penízu",
           "id": null,
           "children": []
         }
@@ -418,7 +418,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Dům u jezera",
+          "name": "Dům u jezera",
           "id": null,
           "children": []
         }
@@ -458,7 +458,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Dům u jezera",
+          "name": "Dům u jezera",
           "id": null,
           "children": []
         }
@@ -598,7 +598,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Pohled z okna úzkého domu",
+          "name": "Pohled z okna úzkého domu",
           "id": null,
           "children": []
         }
@@ -638,7 +638,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Vinárna U posledního penízu",
+          "name": "Vinárna U posledního penízu",
           "id": null,
           "children": []
         }
@@ -818,7 +818,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Zase v úzkém domě",
+          "name": "Zase v úzkém domě",
           "id": null,
           "children": []
         }
@@ -838,7 +838,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Vinárna U posledního penízu",
+          "name": "Vinárna U posledního penízu",
           "id": null,
           "children": []
         }
@@ -938,7 +938,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Vinárna U posledního penízu",
+          "name": "Vinárna U posledního penízu",
           "id": null,
           "children": []
         }
@@ -1018,7 +1018,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Vinárna U posledního penízu",
+          "name": "Vinárna U posledního penízu",
           "id": null,
           "children": []
         }
@@ -1098,7 +1098,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Vinárna U posledního penízu",
+          "name": "Vinárna U posledního penízu",
           "id": null,
           "children": []
         }
@@ -1133,12 +1133,12 @@
       "role": "chapter",
       "order": 53,
       "prev": "zla_mila_056.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "Pohled do okna úzkého domu",
+          "name": "Pohled do okna úzkého domu",
           "id": null,
           "children": []
         }
@@ -1146,11 +1146,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 135,
-      "chars": 865,
+      "chars": 864,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "zla_mila_057.html",
       "next": null,
@@ -1167,9 +1167,9 @@
   ],
   "totals": {
     "all": {
-      "words": 4006,
-      "chars": 21725,
-      "ideas": 1150
+      "words": 4127,
+      "chars": 22482,
+      "ideas": 1166
     },
     "chapters": {
       "words": 3865,

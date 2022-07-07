@@ -66,7 +66,7 @@
             "filename": "zla_mila_003.md",
             "xhtml": "zla_mila_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -78,7 +78,7 @@
             "filename": "zla_mila_004.md",
             "xhtml": "zla_mila_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -783,7 +783,7 @@
             "filename": "zla_mila_058.md",
             "xhtml": "zla_mila_058.xhtml",
             "id": 57,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -1218,6 +1218,6 @@
       "user": "books-are-next",
       "repo": "srut-zla-mila-new"
     },
-    "generatedAt": 1656062208983
+    "generatedAt": 1657182504225
   }
 }
