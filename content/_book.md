@@ -68,7 +68,7 @@ readingOrder:
   - zla_mila_055.html
   - zla_mila_056.html
   - zla_mila_057.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
