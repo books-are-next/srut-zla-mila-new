@@ -21,8 +21,7 @@ s utrženým sluchátkem
 
      ona beze slova  
      vběhne do domu  
-     a oni proti sobě:
-     jeden se sluchátkem v ruce  
+     a oni proti sobě:     jeden se sluchátkem v ruce  
      druhý jako pytlák z leporela  
      vykukuje za dvěma smrčky
 
