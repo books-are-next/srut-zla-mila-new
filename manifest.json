@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "srut-zla-mila-de51267",
-  "revision": "de51267",
+  "identifier": "srut-zla-mila-d756516",
+  "revision": "d756516",
   "readingOrder": [
     "promo.html",
     "zla_mila_005.html",
@@ -68,8 +68,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:35:46 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664487346820
+    "date": "Sat Oct 01 2022 16:05:21 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664640321514
   },
   "documents": [
     {
