@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "srut-zla-mila-d756516",
-  "revision": "d756516",
+  "identifier": "srut-zla-mila-84cf96d",
+  "revision": "84cf96d",
   "readingOrder": [
     "promo.html",
     "zla_mila_005.html",
@@ -68,8 +68,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 16:05:21 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664640321514
+    "date": "Tue Oct 04 2022 16:53:11 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664902391099
   },
   "documents": [
     {
@@ -1147,9 +1147,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 135,
+      "words": 133,
       "chars": 865,
-      "ideas": 16,
+      "ideas": 14,
       "role": "about",
       "order": null,
       "prev": "zla_mila_057.html",
@@ -1167,9 +1167,9 @@
   ],
   "totals": {
     "all": {
-      "words": 4127,
+      "words": 4125,
       "chars": 22483,
-      "ideas": 1166
+      "ideas": 1164
     },
     "chapters": {
       "words": 3865,
