@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "srut-zla-mila-b765953",
-  "revision": "b765953",
+  "identifier": "srut-zla-mila-2433e3d",
+  "revision": "2433e3d",
   "readingOrder": [
     "promo.html",
     "zla_mila_005.html",
@@ -68,8 +68,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Dec 12 2022 16:10:11 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1670861411512
+    "date": "Mon Dec 12 2022 16:16:40 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1670861800439
   },
   "documents": [
     {
@@ -988,7 +988,7 @@
       "title": "V úzkém městě",
       "file": "zla_mila_050.html",
       "words": 36,
-      "chars": 165,
+      "chars": 164,
       "ideas": 12,
       "role": "chapter",
       "order": 46,
@@ -1168,12 +1168,12 @@
   "totals": {
     "all": {
       "words": 4004,
-      "chars": 21700,
+      "chars": 21699,
       "ideas": 1153
     },
     "chapters": {
       "words": 3865,
-      "chars": 20807,
+      "chars": 20806,
       "ideas": 1135
     }
   }
