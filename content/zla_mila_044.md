@@ -19,12 +19,12 @@ s utrženým sluchátkem
 
 <section>
 
-     ona beze slova  
-     vběhne do domu  
-     a oni proti sobě\:\
-     jeden se sluchátkem v ruce  
-     druhý jako pytlák z leporela  
-     vykukuje za dvěma smrčky
+ona beze slova  
+vběhne do domu  
+a oni proti sobě\:\
+jeden se sluchátkem v ruce  
+druhý jako pytlák z leporela  
+vykukuje za dvěma smrčky
 
 </section>
 
