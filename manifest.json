@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "srut-zla-mila-cb1e9ef",
-  "revision": "cb1e9ef",
+  "identifier": "srut-zla-mila-7836dcb",
+  "revision": "7836dcb",
   "readingOrder": [
     "promo.html",
     "zla_mila_005.html",
@@ -68,8 +68,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Dec 12 2022 15:50:34 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1670860234073
+    "date": "Mon Dec 12 2022 15:58:38 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1670860718461
   },
   "documents": [
     {
@@ -868,8 +868,8 @@
       "title": "V jiné ulici",
       "file": "zla_mila_044.html",
       "words": 58,
-      "chars": 326,
-      "ideas": 14,
+      "chars": 310,
+      "ideas": 16,
       "role": "chapter",
       "order": 40,
       "prev": "zla_mila_043.html",
@@ -989,7 +989,7 @@
       "file": "zla_mila_050.html",
       "words": 36,
       "chars": 165,
-      "ideas": 11,
+      "ideas": 12,
       "role": "chapter",
       "order": 46,
       "prev": "zla_mila_049.html",
@@ -1008,8 +1008,8 @@
       "title": "Vinárna U posledního penízu",
       "file": "zla_mila_051.html",
       "words": 75,
-      "chars": 373,
-      "ideas": 25,
+      "chars": 369,
+      "ideas": 26,
       "role": "chapter",
       "order": 47,
       "prev": "zla_mila_050.html",
@@ -1088,8 +1088,8 @@
       "title": "Vinárna U posledního penízu",
       "file": "zla_mila_055.html",
       "words": 155,
-      "chars": 891,
-      "ideas": 42,
+      "chars": 886,
+      "ideas": 43,
       "role": "chapter",
       "order": 51,
       "prev": "zla_mila_054.html",
@@ -1168,13 +1168,13 @@
   "totals": {
     "all": {
       "words": 4004,
-      "chars": 21726,
-      "ideas": 1148
+      "chars": 21701,
+      "ideas": 1153
     },
     "chapters": {
       "words": 3865,
-      "chars": 20833,
-      "ideas": 1130
+      "chars": 20808,
+      "ideas": 1135
     }
   }
 }
