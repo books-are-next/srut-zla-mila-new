@@ -23,7 +23,8 @@ a pustnu starorusky
 
      a se mnou  
      i ona  
-     i ony:     (citát) utkvělé černé ikony
+     i ony:\   
+     (citát) utkvělé černé ikony
 
 </section>
 

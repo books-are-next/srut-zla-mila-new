@@ -110,6 +110,7 @@ bílo bílo
 
 <section>
 
-     a ostatně:     je po zavírací hodině
+     a ostatně:\
+     je po zavírací hodině
 
 </section>
