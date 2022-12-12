@@ -1,4 +1,5 @@
 {
+  "extractionComplete": true,
   "params": {
     "metadata": {
       "languageCode": "cs",
@@ -1219,6 +1220,6 @@
       "user": "books-are-next",
       "repo": "srut-zla-mila-new"
     },
-    "generatedAt": 1656061507785
+    "generatedAt": 1666351406789
   }
 }
