@@ -32,7 +32,6 @@ cituji:
 prý dělával jsem kdysi cosi  
 nevím  
 nepamatuji se  
-
   nejspíš jsem domů v kapsách nosil  
 svým andělům ke zlosti  
 na vlastní sochu písek
