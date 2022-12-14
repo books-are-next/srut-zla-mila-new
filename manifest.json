@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "srut-zla-mila-2433e3d",
-  "revision": "2433e3d",
+  "identifier": "srut-zla-mila-8457976",
+  "revision": "8457976",
   "readingOrder": [
     "promo.html",
     "zla_mila_005.html",
@@ -68,8 +68,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Dec 12 2022 16:16:40 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1670861800439
+    "date": "Wed Dec 14 2022 19:49:36 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1671047376042
   },
   "documents": [
     {
@@ -1008,7 +1008,7 @@
       "title": "Vinárna U posledního penízu",
       "file": "zla_mila_051.html",
       "words": 75,
-      "chars": 369,
+      "chars": 368,
       "ideas": 26,
       "role": "chapter",
       "order": 47,
@@ -1168,12 +1168,12 @@
   "totals": {
     "all": {
       "words": 4004,
-      "chars": 21699,
+      "chars": 21698,
       "ideas": 1153
     },
     "chapters": {
       "words": 3865,
-      "chars": 20806,
+      "chars": 20805,
       "ideas": 1135
     }
   }
