@@ -21,10 +21,10 @@ a pustnu starorusky
 
 <section>
 
-     a se mnou  
-     i ona  
-     i ony:\   
-     (citát) utkvělé černé ikony
+a se mnou  
+i ona  
+i ony\:\
+(citát) utkvělé černé ikony
 
 </section>
 
